@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/blue-byrd-dev/blue-byrd-dev/raw/main/BBD-Logo.webp" alt="Blue Byrd Development Logo" width="160" />
+  <img src="https://github.com/blue-byrd-dev/blue-byrd-dev/blob/main/BBD-Logo.png" alt="Blue Byrd Development Logo" width="160" />
 </p>
 
 
