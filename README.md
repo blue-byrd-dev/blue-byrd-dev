@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://bluebyrddevelopment.com/images/BBD-Logo" alt="Blue Byrd Development Logo" width="160" />
+  <img src="https://bluebyrddevelopment.com/images/BBD-Logo.png" alt="Blue Byrd Development Logo" width="160" />
+
 </p>
 
 # Blue Byrd Development
